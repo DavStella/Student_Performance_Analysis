@@ -1,4 +1,4 @@
-# Student Performance Analysis
+# Student Performance Analysis Using Python
 ![image](https://github.com/user-attachments/assets/40ab9cb6-3370-431e-9a8f-4d12cd473d07)
 
 ## Overview
