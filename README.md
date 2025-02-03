@@ -1,5 +1,5 @@
 # Student Performance Analysis Using Python
-![image](https://github.com/user-attachments/assets/40ab9cb6-3370-431e-9a8f-4d12cd473d07)
+![image](https://github.com/user-attachments/assets/40ab9cb6-3370-431e-9a8f-4d12cd473d07) 
 
 ## Overview
 This project aims to analyse student performance data to identify key factors affecting academic success and develop a predictive model for student grades.
